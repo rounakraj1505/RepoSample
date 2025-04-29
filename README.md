@@ -5,3 +5,4 @@ Merging items
 Benedict
 github
 hello
+my fellows
