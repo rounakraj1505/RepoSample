@@ -1,4 +1,4 @@
 # RepoSample
 Resolve
 Conflicts 
-Merging things
+Merging items
