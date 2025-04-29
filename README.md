@@ -3,4 +3,4 @@ Resolve
 Conflicts 
 Merging items
 Benedict
-githubbbbbb
+github
