@@ -1,2 +1,3 @@
 # RepoSample
 Resolve
+Conflicts 
